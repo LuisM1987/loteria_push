@@ -8,3 +8,10 @@
 - **Alumno:** Luis Manuel Arteaga Cruz
 - **Número de control:** 1225100281
 - **Grupo / Fecha:** 19/11/2026
+
+# Capturas:
+<img width="669" height="777" alt="image" src="https://github.com/user-attachments/assets/cd7de225-a700-4a9c-a2cc-e9aeb8dda645" />
+<img width="659" height="598" alt="image" src="https://github.com/user-attachments/assets/737d7eee-8d09-48ca-879e-f88e07ac675a" />
+<img width="673" height="109" alt="image" src="https://github.com/user-attachments/assets/7b83e6e1-782c-4304-85b1-10e604f1bd0b" />
+<img width="675" height="356" alt="image" src="https://github.com/user-attachments/assets/2507f546-f3c3-46a2-8c5f-87b1a486d569" />
+<img width="648" height="41" alt="image" src="https://github.com/user-attachments/assets/7f0627a5-fedc-43a7-82af-9abe31053d4d" />
