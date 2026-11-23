@@ -11,20 +11,22 @@
 
 # Capturas:
 Ronda1
-<img width="669" height="777" alt="image" src="https://github.com/user-attachments/assets/cd7de225-a700-4a9c-a2cc-e9aeb8dda645" />
+
+<img width="1212" height="506" alt="image" src="https://github.com/user-attachments/assets/d235f448-660c-43cc-a74d-3efc29bffaa6" />
 
 Ronda2
 
-<img width="659" height="598" alt="image" src="https://github.com/user-attachments/assets/737d7eee-8d09-48ca-879e-f88e07ac675a" />
+<img width="1251" height="738" alt="image" src="https://github.com/user-attachments/assets/e7561f26-258a-46d2-8ed4-744e30695a20" />
 
 Ronda3
 
-<img width="673" height="109" alt="image" src="https://github.com/user-attachments/assets/7b83e6e1-782c-4304-85b1-10e604f1bd0b" />
+<img width="1238" height="717" alt="image" src="https://github.com/user-attachments/assets/5c911a0c-1af8-4546-9451-66a2ca3da373" />
 
 Ronda4
 
-<img width="675" height="356" alt="image" src="https://github.com/user-attachments/assets/2507f546-f3c3-46a2-8c5f-87b1a486d569" />
+<img width="1219" height="696" alt="image" src="https://github.com/user-attachments/assets/758b49bb-ca77-411a-b91a-574abf88bca4" />
 
 Ronda5
 
-<img width="648" height="41" alt="image" src="https://github.com/user-attachments/assets/7f0627a5-fedc-43a7-82af-9abe31053d4d" />
+<img width="1152" height="442" alt="image" src="https://github.com/user-attachments/assets/a8a79e6e-e8b5-4f99-9b31-1dfde87b522e" />
+
